@@ -1,0 +1,20 @@
+INFO     log:rest_client.py:45 接口请求的地址>>>http://admin.5istudy.online
+INFO     log:rest_client.py:46 接口请求的方法>>>POST
+INFO     log:rest_client.py:50 接口请求的json参数>>>
+{
+  "username": 18080808080,
+  "password": 123456
+}
+INFO     log:response_util.py:14 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjEwMjEsInVzZXJuYW1lIjoiMTgwODA4MDgwODAiLCJleHAiOjE2NjQ3ODgzNzQsImVtYWlsIjpudWxsfQ.yZMA08CxhZbuj4cul-Y_1idOJnPgcInO4pyShnVpZIw"}
+INFO     log:rest_client.py:45 接口请求的地址>>>http://admin.5istudy.online
+INFO     log:rest_client.py:46 接口请求的方法>>>POST
+INFO     log:rest_client.py:50 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+INFO     log:rest_client.py:54 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjEwMjEsInVzZXJuYW1lIjoiMTgwODA4MDgwODAiLCJleHAiOjE2NjQ3ODgzNzQsImVtYWlsIjpudWxsfQ.yZMA08CxhZbuj4cul-Y_1idOJnPgcInO4pyShnVpZIw"
+}
+INFO     log:response_util.py:14 接口的返回内容>>>: {"nums": 3, "goods": 6}

@@ -1,0 +1,8 @@
+INFO     log:rest_client.py:45 接口请求的地址>>>http://admin.5istudy.online
+INFO     log:rest_client.py:46 接口请求的方法>>>POST
+INFO     log:rest_client.py:50 接口请求的json参数>>>
+{
+  "mobile": 15000000000
+}
+INFO     log:response_util.py:13 接口状态码不是2开头，请检查！
+INFO     log:response_util.py:14 接口的返回内容>>>: {"mobile": ["用户已经存在"]}

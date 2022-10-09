@@ -1,0 +1,20 @@
+[2022-09-26 17:15:55,671][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online
+[2022-09-26 17:15:55,671][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-26 17:15:55,671][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "username": 18080808080,
+  "password": 123456
+}
+[2022-09-26 17:15:55,880][response_util.py 14][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjEwMjEsInVzZXJuYW1lIjoiMTgwODA4MDgwODAiLCJleHAiOjE2NjQ3ODg1NTUsImVtYWlsIjpudWxsfQ.wFqmyz8w8qOV9ylxrCkeypq-7xtIelx0yoP78Qm3g94"}
+[2022-09-26 17:15:55,882][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online
+[2022-09-26 17:15:55,882][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-26 17:15:55,882][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-09-26 17:15:55,882][rest_client.py 54][INFO]: 接口请求的params参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjEwMjEsInVzZXJuYW1lIjoiMTgwODA4MDgwODAiLCJleHAiOjE2NjQ3ODg1NTUsImVtYWlsIjpudWxsfQ.wFqmyz8w8qOV9ylxrCkeypq-7xtIelx0yoP78Qm3g94"
+}
+[2022-09-26 17:15:55,975][response_util.py 14][INFO]: 接口的返回内容>>>: {"nums": 5, "goods": 6}

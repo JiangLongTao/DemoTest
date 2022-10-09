@@ -1,0 +1,6 @@
+[2022-09-21 16:53:12,576][log_utils.py 41][DEBUG]: 我打印debug日志
+[2022-09-21 16:53:12,576][log_utils.py 42][INFO]: 我打印info日志
+[2022-09-21 16:53:12,576][log_utils.py 43][WARNING]: 我打印warning日志
+[2022-09-21 16:53:12,576][log_utils.py 44][ERROR]: 我打印error日志
+[2022-09-21 16:57:06,083][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-21 16:57:07,015][test_post.py 13][INFO]: 用例执行完毕

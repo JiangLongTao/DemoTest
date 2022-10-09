@@ -1,0 +1,361 @@
+[2022-09-22 11:02:27,532][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:02:27,547][rest_client.py 21][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:02:27,547][rest_client.py 22][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:02:27,547][rest_client.py 23][INFO]: 接口请求的json参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2022-09-22 11:02:28,542][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:13:57,197][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:13:57,198][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:13:57,199][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:13:57,199][rest_client.py 25][INFO]: 接口请求的json参数>>>{"title": "foo", "body": "bar", "userId": 1}
+[2022-09-22 11:13:58,392][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:23:45,530][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:23:45,532][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:23:45,532][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:23:45,532][rest_client.py 25][INFO]: 接口请求的json参数>>>{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2022-09-22 11:23:48,214][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:24:11,676][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:24:11,676][rest_client.py 24][INFO]: 接口请求的方法>>>GET
+[2022-09-22 11:24:16,102][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:24:16,104][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:24:16,104][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:24:16,104][rest_client.py 25][INFO]: 接口请求的json参数>>>{"title": "foo", "body": "bar", "userId": 1}
+[2022-09-22 11:24:17,029][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:24:25,393][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:24:25,395][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:24:25,395][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:24:25,395][rest_client.py 25][INFO]: 接口请求的json参数>>>{"title": "foo", "body": "bar", "userId": 1}
+[2022-09-22 11:24:26,384][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:24:59,430][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:24:59,432][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:24:59,432][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:24:59,432][rest_client.py 25][INFO]: 接口请求的json参数>>>{
+ "title": "foo",
+ "body": "bar",
+ "userId": 1
+}
+[2022-09-22 11:25:00,369][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:25:25,622][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:25:25,624][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:25:25,624][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:25:25,624][rest_client.py 25][INFO]: 接口请求的json参数>>>{
+ "title": "foo",
+ "body": "bar",
+ "userId": 1
+}
+[2022-09-22 11:25:26,622][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:25:47,591][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:25:47,593][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:25:47,593][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:25:47,593][rest_client.py 25][INFO]: 接口请求的json参数>>>
+{
+ "title": "foo",
+ "body": "bar",
+ "userId": 1
+}
+[2022-09-22 11:25:48,507][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:26:26,952][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:26:26,954][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:26:26,954][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:26:26,954][rest_client.py 25][INFO]: 接口请求的json参数>>>
+{
+    "title": "foo",
+    "body": "bar",
+    "userId": 1
+}
+[2022-09-22 11:26:27,949][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:27:27,926][test_post.py 9][INFO]: 
+开始执行test_post方法
+[2022-09-22 11:27:27,927][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:27:27,927][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:27:27,928][rest_client.py 25][INFO]: 接口请求的json参数>>>
+{
+    "title": "foo",
+    "body": "bar",
+    "userId": 1
+}
+[2022-09-22 11:27:28,877][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:27:49,522][test_post.py 10][INFO]: 开始执行test_post方法
+[2022-09-22 11:27:49,524][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:27:49,525][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:27:49,525][rest_client.py 25][INFO]: 接口请求的json参数>>>
+{
+    "title": "foo",
+    "body": "bar",
+    "userId": 1
+}
+[2022-09-22 11:27:50,447][test_post.py 14][INFO]: 用例执行完毕
+[2022-09-22 11:28:02,168][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:28:02,170][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:28:02,170][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:28:02,170][rest_client.py 25][INFO]: 接口请求的json参数>>>
+{
+    "title": "foo",
+    "body": "bar",
+    "userId": 1
+}
+[2022-09-22 11:28:03,071][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:44:55,438][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:44:55,440][rest_client.py 33][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:44:55,440][rest_client.py 34][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:46:20,837][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:46:20,839][rest_client.py 33][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:46:20,839][rest_client.py 34][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:46:20,839][rest_client.py 38][INFO]: 接口请求的json参数>>>
+{
+    "title": "foo",
+    "body": "bar",
+    "userId": 1
+}
+[2022-09-22 11:46:21,769][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:47:56,340][test_post.py 9][INFO]: 开始执行test_post方法
+[2022-09-22 11:47:56,341][rest_client.py 33][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com
+[2022-09-22 11:47:56,341][rest_client.py 34][INFO]: 接口请求的方法>>>POST
+[2022-09-22 11:47:56,341][rest_client.py 38][INFO]: 接口请求的json参数>>>
+{
+    "title": "foo",
+    "body": "bar",
+    "userId": 1
+}
+[2022-09-22 11:47:57,273][test_post.py 13][INFO]: 用例执行完毕
+[2022-09-22 11:52:58,217][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 11:52:58,217][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 11:52:58,218][rest_client.py 52][INFO]: 接口请求的params参数>>>
+"params"
+[2022-09-22 11:54:12,474][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 11:54:12,474][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 11:54:12,474][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{"shouji": 13456755448, "appkey": "0c818521d38759e1"}
+[2022-09-22 11:54:43,736][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 11:54:43,736][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 11:54:43,736][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+    "shouji": 13456755448,
+    "appkey": "0c818521d38759e1"
+}
+[2022-09-22 11:54:53,339][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 11:54:53,340][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 11:54:53,340][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 11:59:05,393][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 11:59:05,395][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 11:59:05,395][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 11:59:05,395][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 11:59:05,596][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 14:35:22,525][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 14:35:22,527][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 14:35:22,527][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 14:35:22,527][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 14:35:22,753][api.py 12][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 14:35:22,754][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 14:40:17,641][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 14:40:17,643][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 14:40:17,643][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 14:40:17,643][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 14:40:17,862][response_util.py 7][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 14:40:17,863][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 14:41:06,485][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 14:41:06,488][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 14:41:06,488][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 14:41:06,488][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+    "shouji": 13456755448,
+    "appkey": "0c818521d38759e1"
+}
+[2022-09-22 14:41:06,671][response_util.py 7][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 14:41:06,671][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 14:51:28,980][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 14:51:28,983][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 14:51:28,983][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 14:51:28,983][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+    "shouji": 13456755448,
+    "appkey": "0c818521d38759e1"
+}
+[2022-09-22 14:51:29,178][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 14:51:29,179][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 14:51:55,866][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 14:51:55,868][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 14:51:55,868][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 14:51:55,868][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 14:51:56,055][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 14:51:56,056][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 14:52:20,420][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 14:52:20,421][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 14:52:20,422][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 14:52:20,422][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 14:52:20,616][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 14:52:20,617][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 15:17:14,776][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 15:17:14,795][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 15:17:14,795][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 15:17:14,795][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 15:17:14,983][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 15:17:14,983][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 15:18:33,800][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 15:18:33,803][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 15:18:33,803][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 15:18:33,803][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 15:18:34,008][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 15:18:34,010][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 15:36:30,060][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 15:36:30,063][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 15:36:30,063][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 15:36:30,063][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 15:36:30,271][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 15:36:30,273][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 15:42:16,347][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 15:42:16,350][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 15:42:16,350][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 15:42:16,350][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 15:42:16,541][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 15:42:16,542][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 15:42:16,560][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 15:42:16,565][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 15:42:16,565][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 15:42:16,565][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 15:42:16,751][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 15:42:16,776][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 15:43:55,166][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 15:43:55,169][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 15:43:55,169][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 15:43:55,169][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 15:43:55,368][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 15:43:55,369][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 15:43:55,386][conftest.py 26][INFO]: 开始执行测试用例~
+[2022-09-22 15:43:55,390][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com
+[2022-09-22 15:43:55,390][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-09-22 15:43:55,390][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-09-22 15:43:55,573][response_util.py 11][INFO]: 接口的返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-09-22 15:43:55,602][conftest.py 28][INFO]: 测试用例执行完毕~
+[2022-09-22 16:22:27,477][rest_client.py 45][INFO]: 接口请求的地址>>>https://admin.5istudy.online
+[2022-09-22 16:22:27,477][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:22:27,477][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 15000000000
+}
+[2022-09-22 16:23:00,972][rest_client.py 45][INFO]: 接口请求的地址>>>https://admin.5istudy.online
+[2022-09-22 16:23:00,972][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:23:00,973][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 15000000000
+}
+[2022-09-22 16:24:16,190][rest_client.py 45][INFO]: 接口请求的地址>>>https://admin.5istudy.online
+[2022-09-22 16:24:16,190][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:24:16,190][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 16100000000
+}
+[2022-09-22 16:27:46,126][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online
+[2022-09-22 16:27:46,126][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:27:46,126][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 16100000000
+}
+[2022-09-22 16:27:46,229][response_util.py 15][INFO]: 接口状态码不是2开头，请检查！
+[2022-09-22 16:29:54,165][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online
+[2022-09-22 16:29:54,165][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:29:54,165][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 16100000000
+}
+[2022-09-22 16:29:54,269][response_util.py 15][INFO]: 接口状态码不是2开头，请检查！
+[2022-09-22 16:34:55,001][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online
+[2022-09-22 16:34:55,001][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:34:55,001][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 16100000000
+}
+[2022-09-22 16:34:55,111][response_util.py 14][INFO]: 接口状态码不是2开头，请检查！
+[2022-09-22 16:35:10,505][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online
+[2022-09-22 16:35:10,506][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:35:10,506][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 16100000000
+}
+[2022-09-22 16:35:10,622][response_util.py 13][INFO]: 接口状态码不是2开头，请检查！
+[2022-09-22 16:35:10,622][response_util.py 14][INFO]: 接口的返回内容>>>: {"mobile": ["手机号码非法"]}
+[2022-09-22 16:42:26,438][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online
+[2022-09-22 16:42:26,438][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:42:26,438][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 15000000000
+}
+[2022-09-22 16:42:26,546][response_util.py 13][INFO]: 接口状态码不是2开头，请检查！
+[2022-09-22 16:42:26,547][response_util.py 14][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2022-09-22 16:42:50,204][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online
+[2022-09-22 16:42:50,205][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:42:50,205][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 18000000001
+}
+[2022-09-22 16:42:50,306][response_util.py 13][INFO]: 接口状态码不是2开头，请检查！
+[2022-09-22 16:42:50,306][response_util.py 14][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2022-09-22 16:43:07,068][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online
+[2022-09-22 16:43:07,068][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-09-22 16:43:07,068][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 17360177172
+}
+[2022-09-22 16:43:07,191][response_util.py 14][INFO]: 接口的返回内容>>>: {"mobile": "17360177172"}
+[2022-09-22 17:23:20,099][mysql_util.py 28][INFO]: 执行sql：select code form users_verifycode where mobile = '17360177172' order by id desc limit 1
+[2022-09-22 17:24:53,731][mysql_util.py 28][INFO]: 执行sql：select code form users_verifycode where mobile = '17360177172' order by id desc limit 1;
+[2022-09-22 17:25:30,908][mysql_util.py 28][INFO]: 执行sql：select code form users_verifycode where mobile = '17360177172';
+[2022-09-22 17:27:28,603][mysql_util.py 28][INFO]: 执行sql：select code from users_verifycode where mobile = '17360177172' order by id desc limit 1;
+[2022-09-22 17:28:31,119][mysql_util.py 28][INFO]: 执行sql：select code from users_verifycode where mobile = '17360177172' order by id desc limit 1;
+[2022-09-22 17:31:07,265][mysql_util.py 29][INFO]: 执行sql：select code from users_verifycode where mobile = '17360177172' order by id desc limit 1;
+[2022-09-22 17:31:28,021][mysql_util.py 29][INFO]: 执行sql：select code from users_verifycode where mobile = '17360177172' order by id desc limit 1;
